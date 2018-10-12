@@ -1,0 +1,13 @@
+{
+  "name": "kepo",
+  "version": "1.0.0",
+  "description": "A slack bot just for fun",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Albert Stevelino",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.10.0",
+    "lodash": "~4.17.11"
+  }
+}
